@@ -1,0 +1,6 @@
+{
+  "name": "Larios Painting - Omaha & Lincoln Painting Contractors",
+  "description": "Professional residential and commercial painting company serving Omaha, Lincoln, Nebraska, Council Bluffs, Iowa, and surrounding communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
